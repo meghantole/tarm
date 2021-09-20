@@ -1,7 +1,8 @@
 # SITE CONFIGURATION
 baseurl: ''  #leave this alone
 url: "https://meghafont.netlify.app"   #change this to yours
-repository: yourusername/yourrepository
+repository: meghantole/tarm
+
 # twitter_username: pageboy  #change to your own twitter account
 lang: en_gb
 timezone: UTC
