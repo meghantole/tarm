@@ -1,12 +1,12 @@
 title: MeghaFont
 description: Website about typography
 footer_text: Copyright 2021 Meghan Tole
-header_feature_image: ../uploads/arranged-1842261_1280-e1521667794258.jpeg
+header_feature_image: ../uploads/nnn.png
 header_text: Typography in Book Publishing
 header_text_color: "#ffffff"
 bannerheight: 20vmax
 navbarheight: 35px
-logo: /uploads/logo.jpg
+logo: ../uploads/jjjj.png
 favicon: /uploads/favicon.ico
 gridlayout: true
 fixednavbar: true
