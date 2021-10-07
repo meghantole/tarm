@@ -6,7 +6,7 @@ header_text: Typography in Book Publishing
 header_text_color: "#ffffff"
 bannerheight: 20vmax
 navbarheight: 35px
-logo: /uploads/logo.jpg
+logo: ../uploads/jjjj.png
 favicon: /uploads/favicon.ico
 gridlayout: true
 fixednavbar: true
