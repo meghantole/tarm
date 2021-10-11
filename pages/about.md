@@ -1,14 +1,15 @@
 ---
-layout: page
+header_feature_image: /uploads/log.jpg
 title: About
+image: ../uploads/photo-1596299786007-9974099be52b.jpeg
+subtitle: MeghaFont
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+layout: page
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
-show: false
+show: true
 ---
 
 This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
