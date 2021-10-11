@@ -1,6 +1,6 @@
 ---
 header_feature_image: /uploads/log.jpg
-title: "About Page: MeghaFont"
+title: About Page
 image: ../uploads/photo-1596299786007-9974099be52b.jpeg
 subtitle: ""
 permalink: /about/
