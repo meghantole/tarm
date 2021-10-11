@@ -6,8 +6,8 @@ header_text: Typography & The Media
 header_text_color: "#ffffff"
 bannerheight: 20vmax
 navbarheight: 55px
-logo: ../uploads/nnnnn.png
-favicon: ../uploads/nnnnn.png
+logo: ../uploads/picture-1.png
+favicon: ../uploads/picture-1.png
 gridlayout: true
 fixednavbar: true
 upzoom: true
