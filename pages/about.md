@@ -11,4 +11,15 @@ tags: null
 description: null
 show: true
 ---
-I created this blog in order to analyse typography and how it's used in the media.
+I created this blog in order to analyse typography and how it's used in the media. 
+
+What I'll be analysing:
+
+* Book Publishing 
+* Magazine Editing
+* Newspaper Editing
+* Advertising
+
+***My Logo***
+
+The reason behind the design for my logo is that it appropriately translates the general feel for my blog. It's simple and
