@@ -11,3 +11,7 @@ favicon: ../uploads/jjjjj.jpg
 gridlayout: true
 fixednavbar: true
 upzoom: true
+items:
+  - name: About Me
+    siteurl: /aboutme
+    tab: false
