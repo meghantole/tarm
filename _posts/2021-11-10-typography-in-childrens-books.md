@@ -18,4 +18,8 @@ The cover is embedded with so much colour and a shiny gold sans serif font which
 
 Elmer the Patchwork Elephant is a great example of the difference between the typography regarding children's publishing and adult. Above we see Elmer is written in a low contrast and heavy weighted font which is easier for younger audiences to read and distinguish in relation to the books main character. The title is also presented in a modern way which may help the books success with children who are prepositioned to enjoy new and shiny things. 
 
+![](../uploads/81seu48cujs.jpeg "'The Very Hungry Caterpillar' - One of the biggest and best-selling children's books of all time.")
+
+*According to librarians and children's-literature experts, 'The Very Hungry Caterpillar's success is attributed to its effortless fusion of story and educational concepts, its striking visual style, and the timelessness of both its aesthetic and its content.' - The Atlantic*
+
 From looking at the layout and typography of Elmer the Patchwork Elephant and various other children’s books it is clear from the large format, type size and white space with heavy illustrations that a younger audience is the target demographic, compared to smaller fonts with compact text is for older readers.
