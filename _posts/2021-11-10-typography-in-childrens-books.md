@@ -12,7 +12,10 @@ To provide stimulation for growing minds, colour must be used right in children'
 
 When bright/bold colours are used in children’s books, they are more likely to start connecting what they see in the books with what they see in real life. The vivid colours hold interest and encourage the young minds to make associations that will become the building blocks for later learning.
 
-![](../uploads/81seu48cujs.jpeg "'The Very Hungry Caterpillar' is one of the most well known and bestselling children's books.")
+![](../uploads/91gmyesqqyl.jpeg "'Elmer the Patchwork Elephant' is a well-known and bestselling children's book.")
 
-> \
-> *"The Very Hungry Caterpillar is a great book for babies and young children because it's short and colourful with lots of repetition and rhythmic language."*
+The cover is embedded with so much colour and a shiny gold sans serif font which is appealing for young minds who can't usually focus well in finer and denser writing. 
+
+Elmer the Patchwork Elephant is a great example of the difference between the typography regarding children's publishing and adult. Above we see Elmer is written in a low contrast and heavy weighted font which is easier for younger audiences to read and distinguish in relation to the books main character. The title is also presented in a modern way which may help the books success with children who are prepositioned to enjoy new and shiny things. 
+
+From looking at the layout and typography of Elmer the Patchwork Elephant and various other children’s books it is clear from the large format, type size and white space with heavy illustrations that a younger audience is the target demographic, compared to smaller fonts with compact text is for older readers.
