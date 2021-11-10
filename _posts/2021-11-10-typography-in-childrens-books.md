@@ -3,7 +3,7 @@ layout: post
 title: "Typography in Children's Publishing "
 date: 2021-11-10T14:44:50.645Z
 image: ../uploads/childrens-books.jpeg
-title_color: "#000000"
+title_color: "#ffffff"
 comments: false
 ---
 Books are an especially important part of learning for children and this is why using the right typography on the front cover and inside the books is one of the most important aspects regarding its success. In order for young people to engage with a novel, the typography must be appealing in order to assist with their development.
