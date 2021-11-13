@@ -19,13 +19,11 @@ It’s important when a book is not only a captivating read but also an eye-grab
 * Love hearts
 * Simple backgrounds that don't take away from the main features of typography.
 
-***What type of font is successful in a romance novel?***
+***What type of font is commonly used in romance novels?***
 
 Whether it’s a classic Austen re-print or a contemporary teen romance, you want to find a typeface with femininity and elegance in abundance. *Sabon* is a 1960s update on Claude Garamond’s design.
 
 This serif is simple and clear, while retaining a definite touch of grown-up tone. You can’t go wrong with setting a romantic epic in *Sabon*.
-
-
 
 ### ***Colour:***
 
