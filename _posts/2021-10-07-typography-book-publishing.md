@@ -8,9 +8,7 @@ comments: false
 ---
 It’s important when a book is not only a captivating read but also an eye-grabbing beauty that people want to put on a shelf to enjoy the view every day. Romance is one of the most popular fiction genre's and one of the most profitable, making approximately $1.44 billion a year in sales. 
 
-
-
-***Colour:***
+### ***Colour:***
 
 ![](../uploads/ya-romance-books-for-teens-image.png "What do all the romance books above have in common?")
 
@@ -18,12 +16,10 @@ It’s important when a book is not only a captivating read but also an eye-grab
 
 ![](../uploads/kkkmmmm.png "The importance of colour typography  in romance books and what it symbolises.")
 
+### ***Field Notes On Love, Jennifer E. Smith***
 
+![](../uploads/romance1.png)
 
-***Field Notes On Love, Jennifer E. Smith***
+### *It Ends With Us, Coleen Hoover*
 
-![](../uploads/81eibwfesrl.jpeg)
-
-It Ends With Us, Coleen Hoover
-
-![](../uploads/1549386174-514wnq0vmgl.jpeg)
+![](../uploads/romance2.png)
