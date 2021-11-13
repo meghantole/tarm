@@ -8,4 +8,6 @@ comments: false
 ---
 It’s important when a book is not only a captivating read but also an eye-grabbing beauty that people want to put on a shelf to enjoy the view every day. Romance is one of the most popular fiction genre's and one of the most profitable, making approximately $1.44 billion a year in sales. 
 
-![](../uploads/best-romance-books-1591633076.jpeg)
+![](../uploads/ya-romance-books-for-teens-image.png "What do all the romance books above have in common?")
+
+> "Type can generate its own meanings and connotations - it is in essence a form of expression." - Target Ink
