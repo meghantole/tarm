@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How type helps us identify genres: Romance"
-date: 2021-10-27T19:07:53.035Z
+date: 2021-10-06T19:07:53.035Z
 image: ../uploads/best-romance-books-1591633076.jpeg
 title_color: "#ffffff"
 comments: false
