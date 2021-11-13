@@ -20,6 +20,14 @@ It’s important when a book is not only a captivating read but also an eye-grab
 
 ![](../uploads/romance1.png)
 
-### *It Ends With Us, Coleen Hoover*
+It's common for typography within the romance genre to follow a similar prospect of design. The display font chosen for the cover of 'Field Notes on Love' uses the typeface ‘*handwriting’,* this gives the impression that someone has written it themselves which creates a personalised feel. The designer is keen on connecting the reader with the storyline. 
+
+By enlarging the lettering of the word 'love' and using the colour pink, the audience are already prepositioned to associate the book with the romance genre even before picking it up or reading the blurb.
+
+A mixture of fonts have been used on the cover all of which are common within the romance genre.
+
+### *It Ends With Us, Colleen Hoover*
 
 ![](../uploads/romance2.png)
+
+Again with Colleen Hoover's, It Ends With Us, the typography used helps the audience associate the book with its genre. The colour pink connotes the feeling of comfort and compassion and even informs us that the story may be following a female lead.
