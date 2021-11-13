@@ -6,7 +6,7 @@ image: ../uploads/childrens-books.jpeg
 title_color: "#ffffff"
 comments: false
 ---
-Books are an especially important part of learning for children and this is why using the right typography on the front cover and inside the books is one of the most important aspects regarding its success. In order for young people to engage with a novel, the typography must be appealing in order to assist with their development.
+Books are an especially important part of learning for children and this is why using the right typography on the front cover and inside the books is one of the most important aspects regarding initiating its success. In order for young people to engage with a novel, the typography must be appealing in order to assist with their development.
 
 Type colour, or colour, is an element of typography that describes how dense or heavy the text appears on the page. Finding the correct balance of type colour and white space can make text more easily readable which is fundamental concerning children.
 
