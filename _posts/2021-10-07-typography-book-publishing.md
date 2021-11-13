@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How does type help us identify the romance genre?
+title: "How type helps us identify genres: Romance"
 date: 2021-10-07T19:07:53.035Z
 image: ../uploads/78041-istock-171153252.jpeg
 title_color: "#ffffff"
