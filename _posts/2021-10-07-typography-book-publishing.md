@@ -6,15 +6,21 @@ image: ../uploads/78041-istock-171153252.jpeg
 title_color: "#ffffff"
 comments: false
 ---
-It’s important when a book is not only a captivating read but also an eye-grabbing beauty that people want to put on a shelf to enjoy the view every day. Romance is one of the most popular fiction genre's and one of the most profitable, making approximately $1.44 billion a year in sales. 
-
-### ***Colour:***
+It’s important when a book is not only a captivating read but also an eye-grabbing beauty that people want to put on a shelf to enjoy the view every day. Romance is one of the most popular fiction genres and one of the most profitable, making approximately $1.44 billion a year in sales. 
 
 ![](../uploads/ya-romance-books-for-teens-image.png "What do all the romance books above have in common?")
 
 > *"Type can generate its own meanings and connotations - it is in essence a form of expression."* - Target Ink
 
-![](../uploads/kkkmmmm.png "The importance of colour typography  in romance books and what it symbolises.")
+### ***Colour:***
+
+![](../uploads/kkkmmmm.png "The importance of colour typography in romance books and what it connotes.")
+
+The most popular colours used within the romance genre are red and pink because as it's explained above, they both are used to symbolise the emotion of love. There is a difference between them, however, that may be used by designers to indicate what type of approach the author is taking with the idea of romance in mind:
+
+Pink: Softer and more delicate. May be used in young adult fiction. 
+
+Red: Exploration of passion and perhaps erotica with the colours strong link to sexuality. May be used primarily in adult fiction. 
 
 ### ***Field Notes On Love, Jennifer E. Smith***
 
@@ -30,4 +36,8 @@ A mixture of fonts have been used on the cover all of which are common within th
 
 ![](../uploads/romance2.png)
 
-Again with Colleen Hoover's, It Ends With Us, the typography used helps the audience associate the book with its genre. The colour pink connotes the feeling of comfort and compassion and even informs us that the story may be following a female lead.
+Again, with Colleen Hoover's, It Ends With Us, the typography used helps the audience associate the book with its genre. The colour pink connotes the feeling of comfort and compassion and even informs us that the story may be following a female lead.
+
+The background colour is plain and light; overall being neutral and contrasting with the darker and capitalised sans-serif typeface which is where the importance is held.  
+
+Another representation of romance present on the cover is the pink flowers which can be associated with youth, beauty, and pleasure as well as a token of appreciation in love.
