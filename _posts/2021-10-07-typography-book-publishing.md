@@ -11,3 +11,5 @@ It’s important when a book is not only a captivating read but also an eye-grab
 ![](../uploads/ya-romance-books-for-teens-image.png "What do all the romance books above have in common?")
 
 > *"Type can generate its own meanings and connotations - it is in essence a form of expression."* - Target Ink
+
+![](../uploads/kkkmmmm.png "The importance of colour in typography and what it symbolises.")
