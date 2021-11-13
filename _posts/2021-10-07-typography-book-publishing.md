@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How type helps us identify genres: Romance"
-date: 2021-10-07T19:07:53.035Z
+date: 2021-10-27T19:07:53.035Z
 image: ../uploads/best-romance-books-1591633076.jpeg
 title_color: "#ffffff"
 comments: false
@@ -24,6 +24,8 @@ It’s important when a book is not only a captivating read but also an eye-grab
 Whether it’s a classic Austen re-print or a contemporary teen romance, you want to find a typeface with femininity and elegance in abundance. *Sabon* is a 1960s update on Claude Garamond’s design.
 
 This serif is simple and clear, while retaining a definite touch of grown-up tone. You can’t go wrong with setting a romantic epic in *Sabon*.
+
+![](../uploads/sabon.jpeg)
 
 ### ***Colour:***
 
