@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Typography: Why are your favourite romance novels so successful?"
+title: How dos type help us identify the romance genre?
 date: 2021-10-07T19:07:53.035Z
 image: ../uploads/78041-istock-171153252.jpeg
 title_color: "#ffffff"
@@ -8,9 +8,24 @@ comments: false
 ---
 It’s important when a book is not only a captivating read but also an eye-grabbing beauty that people want to put on a shelf to enjoy the view every day. Romance is one of the most popular fiction genres and one of the most profitable, making approximately $1.44 billion a year in sales. 
 
-![](../uploads/ya-romance-books-for-teens-image.png "What do all the romance books above have in common?")
-
 > *"Type can generate its own meanings and connotations - it is in essence a form of expression."* - Target Ink
+
+![](../uploads/ya-romance-books-for-teens-image.png)
+
+***How is the romance genre disclosed by the covers above?***
+
+* Sans-serif typefaces particularly presented in handwriting form.
+* Images of couples - Man & Woman or same sex. 
+* Love hearts
+* Simple backgrounds that don't take away from the main features of typography.
+
+***What type of font is successful in a romance novel?***
+
+Whether it’s a classic Austen re-print or a contemporary teen romance, you want to find a typeface with femininity and elegance in abundance. *Sabon* is a 1960s update on Claude Garamond’s design.
+
+This serif is simple and clear, while retaining a definite touch of grown-up tone. You can’t go wrong with setting a romantic epic in *Sabon*.
+
+
 
 ### ***Colour:***
 
