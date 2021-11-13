@@ -18,8 +18,8 @@ It’s important when a book is not only a captivating read but also an eye-grab
 
 ### ***Field Notes On Love, Jennifer E. Smith***
 
-![](../uploads/81eibwfesrl.jpeg)
+![](../uploads/romance1.png)
 
 ### *It Ends With Us, Coleen Hoover*
 
-![](../uploads/817vqet828l.jpeg)
+![](../uploads/romance2.png)
