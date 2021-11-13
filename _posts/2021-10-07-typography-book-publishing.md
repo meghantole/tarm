@@ -12,4 +12,4 @@ It’s important when a book is not only a captivating read but also an eye-grab
 
 > *"Type can generate its own meanings and connotations - it is in essence a form of expression."* - Target Ink
 
-![](../uploads/kkkmmmm.png "The importance of colour in typography and what it symbolises.")
+![](../uploads/kkkmmmm.png "The importance of colour typography  in romance books and what it symbolises.")
