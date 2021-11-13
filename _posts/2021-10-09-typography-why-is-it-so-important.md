@@ -2,7 +2,7 @@
 layout: post
 title: "An Introduction: Why is typography so important?"
 date: 2021-09-30T16:47:44.996Z
-image: ../uploads/dndndd.jpeg
+image: ../uploads/hello-pink_cd5099_z.jpeg
 title_color: "#ffffff"
 comments: false
 ---
