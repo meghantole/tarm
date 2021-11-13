@@ -18,4 +18,6 @@ Masthead: Most newspapers are identified by their masthead. When people look at 
 
 
 
-![](../uploads/daily-mirror-9.jpeg "The Mirror - British National Tabloid")
+![](../uploads/daily-mirror-9.jpeg "The Mirror - National British Tabloid")
+
+![](../uploads/daily-telegraph-10.jpeg "The Telegraph - National British Broadsheet")
