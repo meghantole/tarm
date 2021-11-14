@@ -12,7 +12,7 @@ Illustrating accurate ideologies is a fundamental factor in newspaper publishing
 
 Most newspapers are identified by their masthead. In England and now America, the most popular masthead is in Blackletter (also called the Old English style) which is a very heavy and low contrasted font. 
 
-![](../uploads/toptal-blog-image-1539195576090-3c64f10b3768c850aa6a1e81dc980950.jpeg)
+![A National British Broadsheet](../uploads/toptal-blog-image-1539195576090-3c64f10b3768c850aa6a1e81dc980950.jpeg)
 
 ### *Headlines:*
 
@@ -36,7 +36,7 @@ The Sun is a British tabloid newspaper, published by the News Group Newspapers d
 
 Both newspapers are popular globally for their specific approach of distributing the news and the typography used reflects their audiences ideologies.
 
-![](../uploads/2560px-the_sun.svg.png "The Sun - National British Tabloid")
+![The Sun - National British Tabloid](../uploads/2560px-the_sun.svg.png)
 
 Most tabloids use a sans serif type, and The Sun is no different using the 'Franklin Gothic Bold' font for its masthead. As stated above, sans serif typefaces are said to take longer to read, however it also creates a more modern, less serious tone which is ideal for its readership and their approach to news. 
 
