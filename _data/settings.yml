@@ -4,7 +4,7 @@ footer_text: Copyright 2021 Meghan Tole
 header_feature_image: ../uploads/photo-1503694978374-8a2fa686963a.jpeg
 header_text: Typography in Print Publications
 header_text_color: "#ffffff"
-bannerheight: 10vmax
+bannerheight: 100vh
 navbarheight: 55px
 logo: ../uploads/jjjjj.jpg
 favicon: ../uploads/jjjjj.jpg
