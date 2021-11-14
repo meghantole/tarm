@@ -36,10 +36,14 @@ The Sun is a British tabloid newspaper, published by the News Group Newspapers d
 
 Both newspapers are popular globally for their specific approach of distributing the news and the typography used reflects their audiences ideologies.
 
-![](../uploads/sun.750.jpg "The Sun - National British Tabloid")
+![](../uploads/2560px-the_sun.svg.png "The Sun - National British Tabloid")
 
-Most tabloids use a sans serif type, and The Sun is no different using the 'Franklin Gothic Bold' font. 
+Most tabloids use a sans serif type, and The Sun is no different using the 'Franklin Gothic Bold' font for its masthead. As stated above, sans serif typefaces are said to take longer to read, however it also creates a more modern, less serious tone which is ideal for its readership and their approach to news. 
 
-![](../uploads/ss.png "The Telegraph - National British Broadsheet")
+The red background is bright and bold with its heavy weight and low contrast which stands out to readers.
 
-Most broadsheets tend to use serif typefaces.
+
+
+![](../uploads/client-experience-daily-telegraph.jpeg "The Telegraph - National British Broadsheet")
+
+Most broadsheets tend to use serif typefaces reiterating their more serious approach to news. Readability studies have found that serif typefaces are easier to read because the added strokes make each character more distinctive. Newspapers such as The Daily Telegraph have an older demographic therefore more distinctive letters are easier for the eye to recognise quickly.
