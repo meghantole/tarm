@@ -8,15 +8,11 @@ comments: false
 ---
 Illustrating accurate ideologies is a fundamental factor in newspaper publishing, and choosing the correct forms of typography can help the brand appeal to their target demographic. 
 
-
-
-### ***Masthead:*** 
+### ***Masthead:***
 
 Most newspapers are identified by their masthead. In England and now America, the most popular masthead is in Blackletter (also called the Old English style) which is a very heavy and low contrasted font. 
 
 ![](../uploads/toptal-blog-image-1539195576090-3c64f10b3768c850aa6a1e81dc980950.jpeg)
-
-
 
 ### *Headlines:*
 
@@ -28,16 +24,26 @@ The majority of body text in newspapers are serif type, with most papers using o
 
 A heavy typeface is often used in order to contrast the black text with the grey paper.
 
-
-
 ### *Tabloids Vs Broadsheets*
 
-Looking at two newspapers which are on opposite ends of the spectrum; *The Guardian* and *The Sun*, it becomes evident that typography plays a powerful role in the construction of print media and it is what is recognised by millions for their individual reputation.
+***Broadsheet:*** A standard or full sized newspaper that takes a serious look at major news stories.
 
-![](../uploads/sun.750.jpg "The Sun - National British Tabloid")
+The Daily Telegraph is a national British daily broadsheet newspaper published in London, founded by Arthur B. Sleigh in 1855. 
 
-Most tabloids use a sans serif type, and The Sun is no different using the 'Franklin Gothic Bold' font. 
+***Tabloid:*** A smaller than standard newspaper which focuses on less "serious" content, especially celebrities, sports, and sensationalist crime stories.
 
-![](../uploads/ss.png "The Telegraph - National British Broadsheet")
+The Sun is a British tabloid newspaper, published by the News Group Newspapers division of News UK, itself a wholly owned subsidiary of Rupert Murdoch's News Corp. It was founded as a broadsheet in 1964 as a successor to the Daily Herald, and became a tabloid in 1969. 
 
-Most broadsheets tend to use serif typefaces.
+Both newspapers are popular globally for their specific approach of distributing the news and the typography used reflects their audiences ideologies.
+
+![](../uploads/2560px-the_sun.svg.png "The Sun - National British Tabloid")
+
+Most tabloids use a sans serif type, and The Sun is no different using the 'Franklin Gothic Bold' font for its masthead. As stated above, sans serif typefaces are said to take longer to read, however it also creates a more modern, less serious tone which is ideal for its readership and their approach to news. 
+
+The red background is bright and bold with its heavy weight and low contrast which stands out to readers.
+
+
+
+![](../uploads/client-experience-daily-telegraph.jpeg "The Telegraph - National British Broadsheet")
+
+Most broadsheets tend to use serif typefaces reiterating their more serious approach to news. Readability studies have found that serif typefaces are easier to read because the added strokes make each character more distinctive. Newspapers such as The Daily Telegraph have an older demographic therefore more distinctive letters are easier for the eye to recognise quickly.
