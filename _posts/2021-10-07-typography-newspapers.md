@@ -45,3 +45,5 @@ The red background is bright and bold with its heavy weight and low contrast whi
 ![](../uploads/web-145095354.jpeg "The Telegraph - National British Broadsheet")
 
 Most broadsheets tend to use serif typefaces reiterating their more serious approach to news. Readability studies have found that serif typefaces are easier to read because the added strokes make each character more distinctive. Newspapers such as The Daily Telegraph have an older demographic therefore more distinctive letters are easier for the eye to recognise quickly.
+
+The Daily Telegraph uses a traditional gothic font, which is heavy weighted and low in contrast and also bold and eye-catching. The font is widely used throughout history and therefore the consistency of the typography will immediately help reiterate to The Daily Telegraphs readers that it's a broadsheet.
