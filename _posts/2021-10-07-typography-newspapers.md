@@ -42,8 +42,6 @@ Most tabloids use a sans serif type, and The Sun is no different using the 'Fran
 
 The red background is bright and bold with its heavy weight and low contrast which stands out to readers.
 
-
-
-![](../uploads/client-experience-daily-telegraph.jpeg "The Telegraph - National British Broadsheet")
+![](../uploads/web-145095354.jpeg "The Telegraph - National British Broadsheet")
 
 Most broadsheets tend to use serif typefaces reiterating their more serious approach to news. Readability studies have found that serif typefaces are easier to read because the added strokes make each character more distinctive. Newspapers such as The Daily Telegraph have an older demographic therefore more distinctive letters are easier for the eye to recognise quickly.
