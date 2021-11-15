@@ -18,4 +18,6 @@ Short, punchy lines in larger font sizes, rather than a long body of text in sma
 
 ![Mcdonald's Billboard Advert](../uploads/mcdonalds-billboard-advertising-campaign-03-800x460.jpeg)
 
-The McDonald's billboard advertisement here has been designed in a way, not only to entice audiences but to promote the companies brand altogether. McDonald's is known for it's prime colours (bold red background and yellow text), and the typography used on their billboard advertisements effectively informs the audience instantly what it is marketing.
+The McDonald's billboard advertisement here has been designed in a way, not only to entice audiences but to promote the companies brand altogether. McDonald's is known for it's prime colours (bold red background and yellow text), and the typography used on their billboard advertisements effectively informs the audience instantly what it is marketing. 
+
+![](../uploads/bus_final.png)
