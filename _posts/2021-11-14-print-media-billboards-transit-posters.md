@@ -6,9 +6,7 @@ image: ../uploads/pandora-piccadillylights2.jpeg
 title_color: "#ffffff"
 comments: false
 ---
-In the age of multi-channel advertising, choosing the right typography for outdoor advertising can be tricky. A typeface that works for large, outdoor billboards won’t necessarily work on a transit poster but they both do need to consist of a typeface that's legible from a distance.
-
-No matter how compelling the advertisement is, if those viewing the content can’t read it, it will be dismissed without a second look. Designers have approximately three to six seconds to make the content count.
+In the age of multi-channel advertising, choosing the right typography for outdoor advertising can be tricky. A typeface that works for large, outdoor billboards won’t necessarily work on a transit poster but they both do need to consist of a typeface that's legible from a distance. No matter how compelling the advertisement is, if those viewing the content can’t read it, it will be dismissed without a second look. Designers have approximately three to six seconds to make the content count.
 
 Sans-Serif fonts tend to work best for content on outdoor displays as they are the easiest to read at a glance. In particular, Arial (28 percent), Helvetica (20 percent), Verdana (8 percent) and Open Sans are used and are the most legible according to research done by *Rise Vision*.
 
