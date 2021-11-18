@@ -6,7 +6,7 @@ image: ../uploads/best-romance-books-1591633076.jpeg
 title_color: "#ffffff"
 comments: false
 ---
-It’s important when a book is not only a captivating read but also an eye-grabbing beauty that people want to put on a shelf to enjoy the view every day. Romance is one of the most popular fiction genres and one of the most profitable, making approximately $1.44 billion a year in sales. 
+It’s important when a book is not only a captivating read but also an eye-grabbing beauty that people want to put on a shelf to enjoy every day. Choosing the right typography can help determine the genre, especially in romance novels where there are specific attributes needed to portray to the audience. Romance is one of the most popular fiction genres and one of the most profitable, making approximately $1.44 billion a year in sales. 
 
 > *"Type can generate its own meanings and connotations - it is in essence a form of expression."* - Target Ink
 
@@ -21,9 +21,9 @@ It’s important when a book is not only a captivating read but also an eye-grab
 
 ***What type of font is commonly used in romance novels?***
 
-Whether it’s a classic Austen re-print or a contemporary teen romance, you want to find a typeface with femininity and elegance in abundance. *Sabon* is a 1960s update on Claude Garamond’s design.
+Whether it’s a classic, a re-print, or a contemporary teen romance, a typeface with femininity and elegance in abundance will be used to appeal to the audience. *Sabon* is great example of a typeface used in romantic literature - It is a 1960s update on Claude Garamond’s design.
 
-This serif is simple and clear, while retaining a definite touch of grown-up tone. You can’t go wrong with setting a romantic epic in *Sabon*.
+This serif is simple and clear, whilst still retaining a definite touch of grown-up tone. 
 
 ![](../uploads/sabon.jpeg)
 
