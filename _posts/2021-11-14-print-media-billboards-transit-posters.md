@@ -22,6 +22,6 @@ The McDonald's billboard advertisement here has been designed in a way, not only
 
 The current 'Golden Arches logo' was introduced in 1968, resembling an "M" for "McDonald's" and it is widely regarded to be one of the most recognisable logos in the world. When advertising a company on a billboard it's important to reference the brands original typography. In Mcdonald's case, including the golden arch alone will do its job at promoting but using the iconic bold red background is just as significant. It needs to be readable for both pedestrians and those in vehicles. 
 
-![](../uploads/bus_final.png "Bus Transit Poster")
+![Bus Transit Poster](../uploads/bus_final.png)
 
 Similarly to stated above, transit advertisements need to be bold enough so that when the vehicle is in motion, it's still legible. Thin and fancy fonts are difficult to read from long distances at high or medium speeds therefore sans serif fonts are used. They are simple, modern and easily intelligible therefore is the perfect typography choice for effective transit designs.
