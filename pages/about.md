@@ -20,15 +20,13 @@ What I'll be analysing:
 * Newspaper Editing
 * Advertising
 
-
-
 ***My Logo***
 
 The reason behind the design aspect for my logo was to appropriately translate the general feel for my blog. It's simple and incorporates both sans serif and serif fonts which is a major part of typography. Since the topic I've decided to cover is predominantly based around print media, I thought the blend of the two font types would work well in accurately translating my brands image. 
 
 I placed the M (Megha) and the F (Font) slightly spaced apart in the middle of open newspaper to accurately represent the idea of print media and the physicality of it. I chose a white font to stand out against the pink background. 
 
-![](../uploads/picture-1.png)
+![]()
 
 ***My Cover Picture***
 
