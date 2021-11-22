@@ -12,7 +12,7 @@ Sans-Serif fonts tend to work best for content on outdoor displays as they are t
 
 A larger font will allow people to read content from a distance, engaging them at an earlier point as they approach the display. Big fonts will also take up more space on the display, minimising the amount of text you use, whilst still increasing the impact of your message. 
 
-Most designers will insist on short, punchy lines in larger font sizes, rather than a long body of text in small print otherwise the point will be overshadowed by the image.
+Most designers will insist on short, punchy lines in larger font sizes, rather than a long body of text in small print otherwise the point will be overshadowed by the image. 
 
 ![Mcdonald's Billboard Advert](../uploads/mcdonalds-billboard-advertising-campaign-03-800x460.jpeg)
 
