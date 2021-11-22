@@ -10,6 +10,8 @@ Books are an especially important part of learning for children and this is why 
 
 Type colour, or colour, is an element of typography that describes how dense or heavy the text appears on the page. Finding the correct balance of type colour and white space can make text more easily readable which is fundamental concerning children.
 
+![](../uploads/how-color-affects-your-child.jpeg)
+
 To provide stimulation for growing minds, colour must be used right in children's books to help draw them into the visual aspects that the various colourful aspects are promoting. Colour provides a powerful way of learning about the world. For a child, there is little that is more important than facilitating a love of learning. The presence of colour in children’s books invites them to explore the visual spectrum of the world around them and to learn about it in an engaging and memorable way.
 
 When bright/bold colours and text are used in children’s books, they are more likely to start connecting what they see in the books with what they see in real life. The vividness holds interest and encourage the young minds to start making associations that will become the building blocks for later learning.
