@@ -6,7 +6,7 @@ image: ../uploads/photo-1504711434969-e33886168f5c.jpeg
 title_color: "#ffffff"
 comments: false
 ---
-Illustrating accurate ideologies is a fundamental factor in newspaper publishing, and choosing the correct forms of typography can help the brand appeal to their target demographic. 
+Illustrating accurate ideologies is a fundamental factor in newspaper publishing, and choosing the correct forms of typography can help the brand appeal to their target demographic. Whether this be by 
 
 ### ***Masthead:***
 
