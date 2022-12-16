@@ -1,13 +1,13 @@
-title: MeghaFont
-description: Website about typography
+title: Meghan Tole
+description: A blog devoted to feature writing
 footer_text: Copyright 2021 Meghan Tole
-header_feature_image: ../uploads/photo-1503694978374-8a2fa686963a.jpeg
-header_text: MEGHAFONT
+header_feature_image: ../uploads/jdjdjdjd.png
+header_text: Writing So You Don't Have To
 header_text_color: "#ffffff"
 bannerheight: 20vmax
 navbarheight: 55px
-logo: ../uploads/jjjjj.jpg
-favicon: ../uploads/jjjjj.jpg
+logo: ../uploads/img_1974.jpg
+favicon: ../uploads/jdjdjdjd.png
 gridlayout: true
 fixednavbar: true
 upzoom: true
