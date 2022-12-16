@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "**The K-pop Industry: The Reality Behind Korea’s Standards**"
+title: "The K-pop Industry: The Reality Behind Korea’s Standards"
 date: 2022-12-16T19:15:41.366Z
 image: ../uploads/kpop-group-181022-main-sf-gettyimages-1412530273.webp
 title_color: "#ffffff"
@@ -8,9 +8,7 @@ comments: false
 ---
 **The K-pop Industry: The Reality Behind Korea’s Standards** 
 
-South Korea is one of the strictest countries in terms of beauty standards and the narrowest.
-
-*By Meghan Tole   Dec 10th, 2021*
+*South Korea is one of the strictest countries in terms of beauty standards and the narrowest.*
 
 The year is 2017, and popular boy group BTS has just had their debut on major American television; being the first Korean act to perform on the American Music Awards. Since then, K-pop has taken the world by storm, introducing western audiences to the Korean music industry’s catchy tunes, impressively choreographed dance routines, and unprecedented work ethic that all idols are expected to bring to the table. However, though there are so many amazing qualities regarding the Korean entertainment industry; there is also a depressing reality lingering behind the high-spirited artists that companies are presenting to their audiences. It’s becoming impossible to ignore as the society’s strict beauty standards (that idols must meet to be considered successful) are having a harmful effect on their wellbeing.
 
@@ -26,7 +24,7 @@ The Korean society and their intense standards have recently become a hot topic 
 
 Eating disorders are not the only feared outcome of the intense standards the K-pop industry encourages. A study has concluded that for eight years straight, South Korea had the highest suicide rate of all industrialised countries in the world, with it only dropping to second place in 2015. For individuals aged fifteen to twenty-four, suicide is the leading cause of death in the nation. What’s frightening is this is also the prime age for K-pop idols starting out in the industry. Kim Jonghyun was a former singer and songwriter for the group ‘SHINee’, who sadly took his own life in the December of 2017. His suicide note read, “I’m broken from the inside... The depression that has slowly eaten away at me has finally consumed me, and I couldn’t beat it.” Jonghyun joined his company SM Entertainment (one of the big three) as a fifteen-year-old boy, similar to many other talented teenagers in South Korea. But it seems by the growing number of suicides, that these children may not be emotionally matured yet to manage the pressure and the trolling that comes with being an idol. Korean entertainment companies set high standards for behaviour and physical appearance, which can influence so-called fans to use social media to pass judgement if the enforced standards aren’t met. Jonghyun wasn’t the first idol to take their own life and isn’t likely to be the last. So how many more precious lives must be lost to change these entertainment companies’ negligent approach to mental health?
 
-![*Hundreds of fans and K-pop idol pay their respect to Jonghyun at his memorial service. (Dec 18th, 2017)*](../uploads/jonghyun.jpg)
+![Hundreds of fans and K-pop idol pay their respect to Jonghyun at his memorial service. (Dec 18th, 2017)](../uploads/jonghyun.jpg)
 
 Following Jonghyun’s untimely death, female stars Sulli and Goo Hara both fell victim to suicide in the autumn of 2019. With the spotlight never seeming to dull on the two entertainers, they were both relentlessly attacked by online trolls. In the lead up to Sulli’s passing, her male fans ruthlessly bombarded her with cruel and inhumane remarks for not conforming to South-Koreas standards for female idols. Female idols are supposed to be sexually desired but inexperienced - Sulli challenged these expectations and fought the societal norms yet still shared the same ill fate. Goo Hara was a victim of revenge porn which caused massive controversy due to the same reasoning. This was an apparent ‘eye opener’ for many people in South Korea, shining a light on the never-ending and unattainable standards for females.
 
@@ -48,7 +46,7 @@ The Korean entertainment industry has had such an influence over the population 
 
 Angela Min, a South Korean international student opened up about her experience with cosmetic surgery and how Red Velvet star Irene’s visuals encouraged her to get the procedures done. “I wasn’t too far from the standard, but these idols are advertised everywhere in Korea... you can’t help but compare yourself,” Min said. “I wanted to get double eyelid surgery for years; it’s really affordable back home too.” In South Korea, there are clinics on every street corner.
 
-![*JooE, a member of Momoland, has always been open about her plastic surgery.*](../uploads/momoland.jpg)
+![JooE, a member of Momoland, has always been open about her plastic surgery.](../uploads/momoland.jpg)
 
 It’s time for the companies that dominate South Korea’s entertainment industry to be held accountable for the detrimental effect their standards have on artists and their country. Hopefully, celebrities like Hwasa will continue fighting against the chains their companies confine them to and keep on setting an example for the next generation of idols.
 
