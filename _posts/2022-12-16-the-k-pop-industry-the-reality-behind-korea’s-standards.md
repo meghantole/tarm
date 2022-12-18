@@ -4,9 +4,11 @@ title: "The K-pop Industry: The Reality Behind Korea’s Standards"
 date: 2022-12-16T19:15:41.366Z
 image: ../uploads/kpop-group-181022-main-sf-gettyimages-1412530273.webp
 title_color: "#ffffff"
+caption: South Korea is one of the strictest countries in terms of beauty
+  standards and the narrowest.
 comments: false
 ---
-*South Korea is one of the strictest countries in terms of beauty standards and the narrowest.*
+
 
 The year is 2017, and popular boy group BTS has just had their debut on major American television; being the first Korean act to perform on the American Music Awards. Since then, K-pop has taken the world by storm, introducing western audiences to the Korean music industry’s catchy tunes, impressively choreographed dance routines, and unprecedented work ethic that all idols are expected to bring to the table. However, though there are so many amazing qualities regarding the Korean entertainment industry; there is also a depressing reality lingering behind the high-spirited artists that companies are presenting to their audiences. It’s becoming impossible to ignore as the society’s strict beauty standards (that idols must meet to be considered successful) are having a harmful effect on their wellbeing.
 
