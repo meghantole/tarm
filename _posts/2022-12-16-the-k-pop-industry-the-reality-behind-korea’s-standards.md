@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The K-pop Industry: The Reality Behind Korea’s Standards"
-date: 2022-12-16T19:15:41.366Z
+date: 2022-12-18T19:15:41.366Z
 image: ../uploads/kpop-group-181022-main-sf-gettyimages-1412530273.webp
 title_color: "#ffffff"
 caption: South Korea is one of the strictest countries in terms of beauty
