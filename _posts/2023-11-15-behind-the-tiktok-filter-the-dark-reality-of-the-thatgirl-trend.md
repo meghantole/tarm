@@ -8,9 +8,9 @@ caption: TikTok’s latest self-betterment trend is drawing criticism for
   glamourising dangerous behaviour
 comments: false
 ---
-![](../uploads/89b03368-7ef5-453d-a9e5-313ec30fee17.png)
-
 She is *that girl* - the early riser who greets the dawn with a spring in her step, makes her bed with military precision, sips on a wholesome smoothie, and sweats it out at the gym before settling into a meticulously curated journaling session. But the list doesn’t end there. Her pursuit of self-improvement extends far beyond these daily rituals, as she constantly seeks new ways to enhance her physical, mental, and emotional well-being.
+
+![](../uploads/89b03368-7ef5-453d-a9e5-313ec30fee17.png)
 
 Unfamiliar with the concept? *That girl* has taken the internet by storm as a wellness movement. It advocates for individuals to embody their finest selves by taking control of their lives and presenting themselves attractively. In essence, it’s about looking and feeling your absolute best.
 
@@ -61,7 +61,5 @@ Emily gives the best advice to young girls looking to participate in the trend:
 Amidst the societal pressure to follow the latest trends or wellness standards, prioritise striving for emotional balance and a healthier lifestyle. Instead of punishing yourself for indulging in small pleasures like having a lazy Sunday or squeezing a few extra drops of syrup on your overnight oats, see it as a treat. Even though these actions may go unnoticed by others, they are cherished as a means of finding inner peace amidst the chaos of daily life.
 
 She is *that girl* for a reason, and you're you for a reason. Celebrate your individuality.
-
-
 
 [](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd764e03-2480-4ce4-822e-52211f0cc894_3024x2461.jpeg)
