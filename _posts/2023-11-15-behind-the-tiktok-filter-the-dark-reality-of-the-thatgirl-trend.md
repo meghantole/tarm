@@ -14,7 +14,7 @@ She is *that girl* - the early riser who greets the dawn with a spring in her 
 
 Unfamiliar with the concept? *That girl* has taken the internet by storm as a wellness movement. It advocates for individuals to embody their finest selves by taking control of their lives and presenting themselves attractively. In essence, it’s about looking and feeling your absolute best.
 
-Now, with over [11.7 billion views](https://www.tiktok.com/tag/thatgirl?lang=en) on TikTok alone, an increasing number of women are starting to share their self-betterment routines. From perfectly plated meals to coordinated workout ensembles, social media feeds are flooded with aesthetically pleasing visuals, and the trend shows no signs of slowing down.
+Now, with over [11.7 billion views](https://www.tiktok.com/tag/thatgirl?lang=en) on TikTok alone, an increasing number of women are starting to share their self-betterment routines. From perfectly plated meals to coordinated workout ensembles, social media feeds are flooded with aesthetically pleasing visuals, and the trend shows no signs of slowing down. 
 
 <div class="video-box"><iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/ZpcGjvpAZow?rel=0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
